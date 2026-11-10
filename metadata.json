@@ -1,0 +1,6 @@
+{
+  "name": "Yamuna Farming – Mushroom Management System",
+  "description": "Complete mushroom farming and sales management platform for Yamuna Farming (Mohit Kumar Mahato). Features production tracking, inventory, order processing, delivery, accounting, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
